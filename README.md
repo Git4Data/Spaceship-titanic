@@ -6,3 +6,4 @@ El objetivo del reto es predecir si un pasajero fue transportado a otra dimensi√
 3. Modelado: Se entrenaron y compararon distintos modelos de clasificaci√≥n como RF, XGB y LG
 4. Se generaron los archivos con la prediccion segun cada modelo para la competencia.
 5. En cada caso obtuve un score de aprox 0.75 , lo cual significa que el modelo predijo correctamente el 75.05 % de los pasajeros en el set de test de Kaggle.
+6. se podria continuar con ingenieria de parametros
